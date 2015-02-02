@@ -1,4 +1,4 @@
-#Andrew JAWITZ
+#Andrew Jawitz
 [andrewjawitz@gmail.com](mailto:andrewjawitz@gmail.com)  | [ajawitz@codeforamerica.org](ajawitz@codeforamerica.org)
 
   Andrew is a passionate problem-solver with over a decade's experience in outreach, civic engagement and project management. He is an excellent team builder and thrives in multidisciplinary environments. 
