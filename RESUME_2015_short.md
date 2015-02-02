@@ -10,18 +10,31 @@ Comfortable managing projects remotely and working on cloud platforms such as Gi
 Skills Include: Inkscape, Arduino, OpenWRT, Processing, Python, node.js
 Lifelong learner and educator with experience teaching in both the college and middle school level.
 
+I co-founded Code for Maine and am responsible for organizing an annual strategic plan, managing statewide activities, organizing volunteers and reaching out to public officials.
+
+
+
 ##Highlighted Employers, Projects & Publications
+
 **Code for America Brigade**
-  Brigade Captain 2012- Present
-  www.brigade.codeforamerica.org
+Brigade Captain, 2012- Present
+www.brigade.codeforamerica.org
 
 **Code for Maine**
-  Founder/Regional Organizer- 2012-Present
-  www.codeformaine.org
+Founder/Regional Organizer, 2012-Present
+www.codeformaine.org
+
+**Public Laboratory for Science and Technology**
+Regional Organizer, 2014-Present
+www.publiclab.org
+
+**Harpswell Coastal Academy**
+Makerspace Coordinator/Teacher, 2013-2014
+www.harpswellcoastalacademy.org
+
   
   
 
-I co-founded Code for Maine and am responsible for organizing an annual strategic plan, managing statewide activities, organizing volunteers and reaching out to public officials.
 
  Accomplishments
 Introduced civic hacking to municipal governments of Portland, Bath, Biddeford, and Bangor.
