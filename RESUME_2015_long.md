@@ -95,25 +95,27 @@ NY,NY 6/2006-8/2006
  
 ##Civic Organizing/Volunteer Projects
 
-###Outreach Coordinator, African Diaspora Institute
+####Outreach Coordinator, African Diaspora Institute
 
 Outreach for organization developed and led by African Diaspora community in Maine.  Activities included media justice campaign called DiasporaRise! and a collaboration with Ushahidi, Al Jazeera and Souktel called [Somalia Speaks](http://www.aljazeera.com/indepth/spotlight/somaliaconflict/2011/12/2011124137269831.html) 2011-2013
 
-###Board of Directors, Five Rivers Arts Alliance
+####Board of Directors, Five Rivers Arts Alliance
 
 Served on the Board of Directors for Regional Arts Non-Profit 2009-2011
 
-###Board of Directors, Maine Film and Video Association
+####Board of Directors, Maine Film and Video Association
 
 Served on the Board of Directors for statewide non-profit devoted to film and video industry in Maine.
 
-###Organizer, CarFree Maine
+####Organizer, CarFree Maine
 
 A grassroots campaign to improve public transit accessibility in rural regions and small cities.  2008-2012 continued through Code for Maine as https://www.codeformaine.org/dashboard/projects/open-transit/
  
 ## Education
-- M.A.    American Studies, Columbia University, 2005
-- B.A.     American Studies, Goddard College, 2002
+
+**- M.A.    American Studies, Columbia University, 2005**
+
+**- B.A.     American Studies, Goddard College, 2002**
 
 #### Research interests
 History of recorded sound; American environmental history; history of science and technologies; social ecology; public and digital humanities;database ethnography
