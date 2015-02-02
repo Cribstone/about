@@ -11,13 +11,15 @@ Skills Include: Inkscape, Arduino, OpenWRT, Processing, Python, node.js
 Lifelong learner and educator with experience teaching in both the college and middle school level.
 
 ##Highlighted Employers, Projects & Publications
-**Brigade Captain, Code for America Brigade**
+**Code for America Brigade**
+  Brigade Captain 2012- Present
+  www.brigade.codeforamerica.org
 
-Maine   2012- Present
-
-As a Brigade Captain in the Code for America program,
-
-**Founder, Code for Maine**
+**Code for Maine**
+  Founder/Regional Organizer- 2012-Present
+  www.codeformaine.org
+  
+  
 
 I co-founded Code for Maine and am responsible for organizing an annual strategic plan, managing statewide activities, organizing volunteers and reaching out to public officials.
 
