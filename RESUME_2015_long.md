@@ -1,15 +1,15 @@
 #Andrew JAWITZ
 [andrewjawitz@gmail.com](mailto:andrewjawitz@gmail.com)  | [ajawitz@codeforamerica.org](ajawitz@codeforamerica.org)
 
-Andrew is a passionate problem-solver with over a decade of experience in civic organizing, managing project deliverables and sustaining long term initiatives.  
-Academic background interpreting qualitative fieldwork through quantitative data.
-Experience using a wide variety of media formats including feature length documentary film and database narrative.
-Skilled in motivating groups of volunteers and matching community contributions to project needs.
-Comfortable managing projects remotely and working on cloud platforms such as Github, BitBucket, Cloud9, UpVerter, BigBlueButton and Google Hangout.
-Skills Include: Inkscape, Arduino, OpenWRT, Processing, Python, node.js
-Lifelong learner and educator with experience teaching in both the college and middle school level.
+  Andrew is a passionate problem-solver with over a decade's experience in outreach, civic engagement and project management. He is an excellent team builder and thrives in multidisciplinary environments. 
 
-I co-founded Code for Maine and am responsible for organizing an annual strategic plan, managing statewide activities, organizing volunteers and reaching out to public officials.
+Since 2012, he has organized Code for Maine, a local chapter of the Code for America organization based in the state of Maine. As Brigade Captain he is responsible for organizing an annual strategic plan, managing statewide activities, organizing volunteers and reaching out to public officials.   
+
+
+His experience includes expertise in a wide variety of media formats including feature length documentary film and database narrative.
+
+As a lifelong learner and educator he enjoys teaching in both the college and middle school level.
+
 
 
 
