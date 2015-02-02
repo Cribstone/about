@@ -91,9 +91,7 @@ Maine, 2006-2012
  
 ##Civic Organizing/Volunteer Projects
 
-**Outreach Coordinator, African Diaspora Institute**
-
-Outreach for organization developed and led by African Diaspora community in Maine.  Activities included media justice campaign called DiasporaRise! and a collaboration with Ushahidi, Al Jazeera and Souktel called [Somalia Speaks](http://www.aljazeera.com/indepth/spotlight/somaliaconflict/2011/12/2011124137269831.html) 2011-2013
+**Outreach Coordinator, African Diaspora Institute**  Outreach for organization developed and led by African Diaspora community in Maine.  Activities included media justice campaign called DiasporaRise! and a collaboration with Ushahidi, Al Jazeera and Souktel called [Somalia Speaks](http://www.aljazeera.com/indepth/spotlight/somaliaconflict/2011/12/2011124137269831.html) 2011-2013
 
 **Board of Directors, Five Rivers Arts Alliance**  Served on the Board of Directors for Regional Arts Non-Profit 2009-2011
 
