@@ -43,7 +43,7 @@ Regional Organizer, 2014-Present
 
 www.publiclab.org
 
-Regional organizer for citizen science projects within the State of Maine.  Contributed research documentation on projects incl. a low-cost UAV for grassroots mapping and a classroom curriculum combining balloon-mapping techniques with a "DIY Book Scanner" to digitize archival imagery at http://publiclab.org/profile/ajawitz.
+Regional organizer for citizen science projects within the State of Maine. Workshop assistant at 2014 International Conference of Crisis Mappers (ICCM 2014).  Contributed research documentation on projects incl. a low-cost UAV for grassroots mapping and a classroom curriculum combining balloon-mapping techniques with a "DIY Book Scanner" to digitize archival imagery at http://publiclab.org/profile/ajawitz.
 
 **Harpswell Coastal Academy**
 
@@ -62,5 +62,32 @@ Introduced a Community Wireless project in partnership with the Open Technology 
 Maine, 2006-2012  
   
    Worked on grant-funded community projects for clients including Spindleworks Art Center, Five Rivers Arts Association, Maine Arts Commission, and Maine Humanities Council.  Projects included teaching oral history methods, assessing archives and collections, conducting fieldwork and video/audio interviews with community members, and presenting projects at regional and national conferences.  Taught college level courses in the humanities at Lewiston-Auburn College.  
+   
+
+
+##Conferences/unConferences/Events   
+ 
+**ICCM 2014** International Conference of Crisis Mappers,  Co-Facilitator, Grassroots Mapping Workshop, International, 11/06/14 NYC
+
+**CfASummit 2012-2014** Code for America Summit, Attendee and unConference facilitator, 9/12, 9/13, 9/14 San Francisco, CA
+
+**TransporationCampNE** Attendee and unConference facilitator, 4/14 Boston MA.
+
+**2013 Open Source Hardware Summit** Attendee, 9/13, Boston MA.
+
+**Open Source Bridge 2013**  Session Presenter "[Where "Small is Beautiful" meets "Big Data"- Empowering Local Communities with Open Hardware](http://opensourcebridge.org/sessions/1009)" 6/20/2013, Portland, Ore.
+
+**National Day of Civic Hacking 2013-2014** Statewide Coordinator for Maine incl. events in Portland, Bangor and Biddeford. 6/1/13, 6/1/14, Maine
+
+**Open Government and Civic Hacking Champions of Change** Invitee, 7/13, The White House, Washington DC
+
+**TransportationCampDC** Attendee and unConference facilitator, 1/12, 1/13, Washington DC
+
+**Maine Municipal Technology Association** Presenter "[An Introduction to Civic Technology](https://www.memun.org/DesktopModules/SearchBoost/DownloadDoc.ashx?filepid=0&file=%2Fdmx%2F2013%2Ffile_20130516_150749_kve_0.resources)" 
+ 
+ 
+ 
+ 
+ 
 
 
