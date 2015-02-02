@@ -100,4 +100,13 @@ Maine, 2006-2012
 **Organizer, CarFree Maine**  A grassroots campaign to improve public transit accessibility in rural regions and small cities.  2008-2012 continued through Code for Maine as https://www.codeformaine.org/dashboard/projects/open-transit/
  
 
+##Software Skills
+**Languages** MQTT, GTFS, server-side Javascript (Node.js, Angular.js, express.js), Python, Processing (Java), Arduino IDE (C++),Ruby, GeoJSON
 
+**Cloud/Web Platforms** NodeRED, OpenShift, Git, Github, Wordpress, Ghost, MongoDB, MapBox
+
+**Embedded Platforms** OpenWRT (Linino,Commotion,Generic), Raspberry Pi, Lubuntu, Electric Imp, Arduino, STM32, MultiWii/Naze32/APM UAV autopilots, Repetier Host (3D Printing), Android Tasker,OpenCV, CHDK, Ford Sync/OpenXC
+
+**Desktop Platforms** Ubuntu, Linux Mint, Raspbian, Debian, OSX, Windows 7, Windows 8
+
+**Design** Inkscape, Gimp, Sketchup, Blender, FreeCAD
