@@ -10,8 +10,12 @@ His experience includes expertise in a wide variety of media formats including f
 
 As a lifelong learner and educator he enjoys teaching in both the college and middle school level.
 
+## Education
+- M.A.    American Studies, Columbia University, 2005
+- B.A.     American Studies, Goddard College, 2002
 
-
+#### Research interests
+History of recorded sound; American environmental history; history of science and technologies; social ecology; public and digital humanities;database ethnography
 
 ##Highlighted Positions
 
