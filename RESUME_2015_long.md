@@ -68,8 +68,12 @@ Maine, 2006-2012
    Worked on grant-funded community projects for clients including Spindleworks Art Center, Five Rivers Arts Association, Maine Arts Commission, and Maine Humanities Council.  Projects included teaching oral history methods, assessing archives and collections, conducting fieldwork and video/audio interviews with community members, and presenting projects at regional and national conferences.  Taught college level courses in the humanities at Lewiston-Auburn College.  
    
 ###Columbia University Oral History Research Office
+
 Co-Faciliator, 2006 Summer Institute 
+
 NY,NY 6/2006-8/2006
+
+  Invited by Mary Marshall Clark, director of the Columbia University Oral History Research Office to co-facilitate the Summer Institute for the Summer of 2006.  The Summer Institute is an opportunity for professionals from a wide variety of disciplines to explore oral history methods in practical applications.
 
 
 ##Conferences/unConferences/Events   
