@@ -15,7 +15,7 @@ As a lifelong learner and educator he enjoys teaching in both the college and mi
 
 ##Highlighted Positions
 
-**Code for America Brigade**
+###Code for America Brigade
 
 Brigade Captain, 2012- Present
 
@@ -23,7 +23,7 @@ www.brigade.codeforamerica.org
 
 Participated in inaugural class of the Code for America Brigade program.  Collaborated with other Brigade Captains from around the country via bi-weekly web-conferences.  Attended every annual CfASummit since 2012.
 
-**Code for Maine**
+###Code for Maine
 
 Founder/Regional Organizer, 2012-Present
 
@@ -37,7 +37,7 @@ Presented at multiple conferences including the Maine Municipal Technology Confe
 Advocated for use of Maker methods/Open Source Hardware in Civic Hacking community.
 Project Manager for Civic Apps including the OpenVehicleTracker and PaperMachine.  
 
-**Public Laboratory for Science and Technology**
+###Public Laboratory for Science and Technology
 
 Regional Organizer, 2014-Present
 
@@ -45,7 +45,7 @@ www.publiclab.org
 
 Regional organizer for citizen science projects within the State of Maine. Workshop assistant at 2014 International Conference of Crisis Mappers (ICCM 2014).  Contributed research documentation on projects incl. a low-cost UAV for grassroots mapping and a classroom curriculum combining balloon-mapping techniques with a "DIY Book Scanner" to digitize archival imagery at http://publiclab.org/profile/ajawitz.
 
-**Harpswell Coastal Academy**
+###Harpswell Coastal Academy
 
 Makerspace Coordinator/Teacher, 2013-2014
 
@@ -57,7 +57,7 @@ Introduced Middle School Students to electronics through Makey Makey, LittleBits
 DIY Time Machine Combines methods from two well-documented DIY projects- DIY Aerial Mapping and DIY Book/Document Scanning to teach students to create a story based on an aerial time-lapse of a specific place showing its changes throughout the decades.  
 Introduced a Community Wireless project in partnership with the Open Technology Institute through their Commotion Wireless Platform.
   
-**Independent Oral Historian and Adjunct Instructor**
+###Independent Oral Historian and Adjunct Instructor
 
 Maine, 2006-2012  
   
@@ -91,13 +91,21 @@ Maine, 2006-2012
  
 ##Civic Organizing/Volunteer Projects
 
-**Outreach Coordinator, African Diaspora Institute**  Outreach for organization developed and led by African Diaspora community in Maine.  Activities included media justice campaign called DiasporaRise! and a collaboration with Ushahidi, Al Jazeera and Souktel called [Somalia Speaks](http://www.aljazeera.com/indepth/spotlight/somaliaconflict/2011/12/2011124137269831.html) 2011-2013
+###Outreach Coordinator, African Diaspora Institute
 
-**Board of Directors, Five Rivers Arts Alliance**  Served on the Board of Directors for Regional Arts Non-Profit 2009-2011
+Outreach for organization developed and led by African Diaspora community in Maine.  Activities included media justice campaign called DiasporaRise! and a collaboration with Ushahidi, Al Jazeera and Souktel called [Somalia Speaks](http://www.aljazeera.com/indepth/spotlight/somaliaconflict/2011/12/2011124137269831.html) 2011-2013
 
-**Board of Directors, Maine Film and Video Association**  Served on the Board of Directors for statewide non-profit devoted to film and video industry in Maine.
+###Board of Directors, Five Rivers Arts Alliance
 
-**Organizer, CarFree Maine**  A grassroots campaign to improve public transit accessibility in rural regions and small cities.  2008-2012 continued through Code for Maine as https://www.codeformaine.org/dashboard/projects/open-transit/
+Served on the Board of Directors for Regional Arts Non-Profit 2009-2011
+
+###Board of Directors, Maine Film and Video Association
+
+Served on the Board of Directors for statewide non-profit devoted to film and video industry in Maine.
+
+###Organizer, CarFree Maine
+
+A grassroots campaign to improve public transit accessibility in rural regions and small cities.  2008-2012 continued through Code for Maine as https://www.codeformaine.org/dashboard/projects/open-transit/
  
 
 ##Software Skills
