@@ -6,9 +6,9 @@ This repo is used to manage and track content in other locations and Andrew Jawi
 Content:
 
 
-About features Andrew Jawitz's biography and personal statement
-Resume Short is the short version of Andrew Jawitz's Resume
+About will feature Andrew Jawitz's biography and personal statement
 Resume Long is the long version of Andrew Jawitz's Resume
+Index and Style Sheets for Personal landing page will be added soon.
 Contact:
 
 email andrewjawitz@gmail.com
