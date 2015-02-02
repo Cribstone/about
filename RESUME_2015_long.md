@@ -67,7 +67,7 @@ Maine, 2006-2012
 
 ##Conferences/unConferences/Events   
  
-**ICCM 2014** International Conference of Crisis Mappers,  Co-Facilitator, Grassroots Mapping Workshop, International, 11/06/14 NYC
+**ICCM 2014** International Conference of Crisis Mappers,  Co-Facilitator, Grassroots Mapping Workshop,11/06/14 NYC
 
 **CfASummit 2012-2014** Code for America Summit, Attendee and unConference facilitator, 9/12, 9/13, 9/14 San Francisco, CA
 
