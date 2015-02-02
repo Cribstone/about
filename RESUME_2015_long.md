@@ -83,7 +83,9 @@ Maine, 2006-2012
 
 **TransportationCampDC** Attendee and unConference facilitator, 1/12, 1/13, Washington DC
 
-**Maine Municipal Technology Association** Presenter "[An Introduction to Civic Technology](https://www.memun.org/DesktopModules/SearchBoost/DownloadDoc.ashx?filepid=0&file=%2Fdmx%2F2013%2Ffile_20130516_150749_kve_0.resources)" 
+**2012 Maine Municipal Technology Conference** Presenter "[An Introduction to Civic Technology](https://www.memun.org/DesktopModules/SearchBoost/DownloadDoc.ashx?filepid=0&file=%2Fdmx%2F2013%2Ffile_20130516_150749_kve_0.resources)", 9/12, Augusta Maine
+
+**Tech@State:Real-Time Awareness** unConference Attendee, 12/2011, Washington DC
  
  
  
