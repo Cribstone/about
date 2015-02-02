@@ -13,7 +13,7 @@ I co-founded Code for Maine and am responsible for organizing an annual strategi
 
 
 
-##Highlighted Employers, Projects & Publications
+##Highlighted Positions
 
 **Code for America Brigade**
 
