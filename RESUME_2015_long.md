@@ -10,13 +10,6 @@ His experience includes expertise in a wide variety of media formats including f
 
 As a lifelong learner and educator he enjoys teaching in both the college and middle school level.
 
-## Education
-- M.A.    American Studies, Columbia University, 2005
-- B.A.     American Studies, Goddard College, 2002
-
-#### Research interests
-History of recorded sound; American environmental history; history of science and technologies; social ecology; public and digital humanities;database ethnography
-
 ##Highlighted Positions
 
 ###Code for America Brigade
@@ -118,6 +111,14 @@ Served on the Board of Directors for statewide non-profit devoted to film and vi
 
 A grassroots campaign to improve public transit accessibility in rural regions and small cities.  2008-2012 continued through Code for Maine as https://www.codeformaine.org/dashboard/projects/open-transit/
  
+## Education
+- M.A.    American Studies, Columbia University, 2005
+- B.A.     American Studies, Goddard College, 2002
+
+#### Research interests
+History of recorded sound; American environmental history; history of science and technologies; social ecology; public and digital humanities;database ethnography
+
+
 
 ##Software Skills
 **Languages** MQTT, GTFS, server-side Javascript (Node.js, Angular.js, express.js), Python, Processing (Java), Arduino IDE (C++),Ruby, GeoJSON
