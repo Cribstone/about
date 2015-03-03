@@ -6,11 +6,17 @@ This repo is used to manage and track content in other locations and Andrew Jawi
 Content:
 
 
-About will feature Andrew Jawitz's biography and personal statement
+About features Andrew Jawitz's biography and personal statement
 Resume Long is the long version of Andrew Jawitz's Resume
 Index and Style Sheets for Personal landing page will be added soon.
 Contact:
 
 email andrewjawitz@gmail.com
-@ajawitz on twitter 
 
+@ajawitz on twitter 
+www.linkedin.com/in/ajawitz
+
+
+email ajawitz@codeforamerica.org
+
+www.codeformaine.org
