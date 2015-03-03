@@ -14,15 +14,25 @@ Home Page:
 
 [nodejs-humblehacker.rhcloud.com](nodejs-humblehacker.rhcloud.com)
 
+Project Pages:
+
+http://publiclab.org/profile/ajawitz
+
+https://www.codeformaine.org/dashboard/
+
 Contact:
 
 email andrewjawitz@gmail.com
 
-@ajawitz on twitter 
+email ajawitz@codeforamerica.org
 
 www.linkedin.com/in/ajawitz
 
+@ajawitz on twitter 
 
-email ajawitz@codeforamerica.org
 
-www.codeformaine.org
+
+
+
+
+
