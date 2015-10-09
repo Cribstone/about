@@ -5,4 +5,4 @@
  
  His work with the civic technology community allows Andrew to apply these skills in embedded interaction design to a broader context.  Recent examples include development of an Open Source vehicle tracker for small cities to deploy in snowplows and public transit, and a concept for connecting wearable technology tracking devices to Personal Health Records (PHRs)
 
-  The result of this approach is a new concept called 'Civic Making".
+
