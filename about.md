@@ -16,14 +16,15 @@
  
  His work with the civic technology community allows Andrew to apply these skills in embedded interaction design to a broader context.  Recent examples include development of an Open Source vehicle tracker for small cities to deploy in snowplows and public transit, and a concept for connecting wearable technology tracking devices to Personal Health Records (PHRs)
  ***
- # Interviews etc...
+ #Interviews etc...
+ 
  [Code for America Spotlight on Code for Maine](http://www.codeforamerica.org/blog/2012/09/07/brigade-spotlight-code-for-maine)
  
  [Maine Magazine Profile](http://www.themainemag.com/people/profiles/1376-andrew-jawitz.html)
  
  
  ***
- # Links
+ #Links
  
   [Blog](http://cribstone.github.io/humblehacker/)
  
