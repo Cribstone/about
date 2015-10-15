@@ -16,6 +16,12 @@
  
  His work with the civic technology community allows Andrew to apply these skills in embedded interaction design to a broader context.  Recent examples include development of an Open Source vehicle tracker for small cities to deploy in snowplows and public transit, and a concept for connecting wearable technology tracking devices to Personal Health Records (PHRs)
  ***
+# Personal Statement
+
+Whether studying the work of folklorist Alan Lomax in college, or building low-cost drones capable of providing 3D mapping imagery with local middle-schoolers, my motivation has always been the same…  I am interested in transforming the relationship between producer and consumer into one that democratizes the means of production.
+My earlier work viewed this process through the lens of culture and focused on participatory music in particular.  My focus has gradually evolved to embrace Open Source technology, shareable economics, the "DIY Maker" Movement and civic hacking.  
+
+ ___
 # Interviews etc...
  
  [Code for America Spotlight on Code for Maine](http://www.codeforamerica.org/blog/2012/09/07/brigade-spotlight-code-for-maine)
